@@ -1,2 +1,3 @@
-# HTML_Canvas
+# HTML Canvas
+
 Drawing things using Canvas API
