@@ -1,3 +1,4 @@
 # HTML Canvas
 
-Drawing things using Canvas API
+Drawing and animating things using Canvas API 
+    
